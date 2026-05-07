@@ -269,7 +269,6 @@ Maximum observed speedup:
 - Financial event detection
 - Temporal reasoning between events
 - FinBERT-based NLP pipeline
-- Distributed preprocessing
 - Parallel CPU benchmarking
 - Cross-sentence event linking
 - Timeline graph generation
@@ -286,8 +285,6 @@ Maximum observed speedup:
 - Use larger financial corpora
 - Apply Graph Neural Networks
 - Add real-time financial news streaming
-- Implement scalable distributed event processing
-
 ---
 
 # Authors
